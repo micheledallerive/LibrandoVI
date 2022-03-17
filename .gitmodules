@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = ssh://root@micheledallerive.ch/var/repo/librandovi.it/client.git
+[submodule "server"]
+	path = server
+	url = ssh://root@micheledallerive.ch/var/repo/librandovi.it/server.git
